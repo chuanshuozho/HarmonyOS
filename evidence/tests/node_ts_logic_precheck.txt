@@ -1,0 +1,13 @@
+PASS TC01_AND_both_true
+PASS TC02_AND_one_false
+PASS TC03_conflict_priority
+PASS TC04_tie_id_order
+PASS TC05_disabled_rule
+PASS TC06_threshold_equal
+PASS TC07_invalid_environment
+PASS TC08_invalid_threshold
+PASS TC09_invalid_device
+PASS TC10_no_mutate_input
+PASS TC11_logs_sequence
+PASS TC12_invalid_priority
+12/12 PASS (Node/TS mirror; NOT Hypium evidence)

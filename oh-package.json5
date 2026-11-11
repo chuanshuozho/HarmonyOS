@@ -1,0 +1,8 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "dormlink",
+  "version": "1.0.0",
+  "description": "HarmonyOS宿舍自动化规则编排",
+  "dependencies": {},
+  "devDependencies": { "@ohos/hypium": "1.0.25" }
+}
