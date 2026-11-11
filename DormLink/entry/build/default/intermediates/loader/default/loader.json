@@ -1,0 +1,25 @@
+{
+  "modulePathMap": {
+    "entry": "D:\\HarmonyOS\\DormLink\\entry"
+  },
+  "compileMode": "esmodule",
+  "projectRootPath": "D:\\HarmonyOS\\DormLink",
+  "nodeModulesPath": "D:\\HarmonyOS\\DormLink\\entry\\build\\default\\intermediates\\loader_out\\default\\node_modules",
+  "byteCodeHarInfo": {},
+  "declarationEntry": [],
+  "moduleName": "entry",
+  "hspNameOhmMap": {},
+  "harNameOhmMap": {},
+  "packageManagerType": "ohpm",
+  "compileEntry": [
+    "D:\\HarmonyOS\\DormLink\\entry\\build\\default\\generated\\r\\default\\ResourceTable.ts"
+  ],
+  "otherCompileFiles": [],
+  "dynamicImportLibInfo": {},
+  "routerMap": [],
+  "hspResourcesMap": {},
+  "updateVersionInfo": {},
+  "customizedHar": false,
+  "anBuildOutPut": "D:\\HarmonyOS\\DormLink\\entry\\build\\default\\intermediates\\loader_out\\default\\an\\arm64-v8a",
+  "anBuildMode": "type"
+}
